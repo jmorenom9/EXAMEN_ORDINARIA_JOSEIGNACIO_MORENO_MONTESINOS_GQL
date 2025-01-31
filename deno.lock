@@ -3,6 +3,7 @@
   "packages": {
     "specifiers": {
       "npm:@apollo/server@^4.11.3": "npm:@apollo/server@4.11.3_graphql@16.10.0",
+      "npm:graphql@^16.10.0": "npm:graphql@16.10.0",
       "npm:mongodb@^6.13.0": "npm:mongodb@6.13.0"
     },
     "npm": {
